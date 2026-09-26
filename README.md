@@ -5,18 +5,21 @@
 
 ### 🚀 Mes Projets
 
-**1. bonjour.py** - Mon tout premier code Python
-**2. verificateur_canada_v2.py** - Outil pour vérifier automatiquement les documents pour immigrer au Canada
-    - Utilise : `dictionnaires`, `boucles for`, `conditions if/else`
-    - Affiche ✅ ❌ et compte les documents manquants (IELTS, TCF, WES)
+**1. bonjour.py** - Jour 1 - Mon premier code Python
+**2. verificateur_canada_v2.py** - Jour 4 - Vérificateur de dossier avec dictionnaires + boucles
+    - Affiche ✅ ❌ et compte les documents (IELTS, TCF, WES)
+
+**3. verificateur_canada_v3.py** - Jour 5 - Version PRO avec fonctions
+    - Une seule fonction `verifier_dossier()` qui marche pour plusieurs personnes
+    - Utilise : `def`, `return`, paramètres
+    - C'est comme ça que codent les vrais devs au Canada
 
 ### 🛠️ Compétences
-- Python (bases, boucles, conditions)
-- Git & GitHub
-- Anglais (en progression) / Français (natif)
+- Python (variables, dictionnaires, boucles, fonctions)
+- Git & GitHub (4 projets en ligne)
+- Anglais / Français
 
-### 🎯 Mon objectif 2029
-Devenir développeur IA au Canada. Je code tous les jours depuis mon téléphone à Abidjan avant mon départ pour la Chine.
+### 🎯 Objectif 2029
+Devenir développeur IA au Canada. Je code tous les jours depuis mon téléphone.
 
-📫 Contact: hugogbotte93@gmail.com
-🔗 LinkedIn: (à ajouter)
+📫 hugogbotte93@gmail.com
